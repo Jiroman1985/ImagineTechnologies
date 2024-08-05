@@ -22,7 +22,7 @@ function Home() {
           {/* Aquí irían las experiencias, usando el componente ExperienceCard */}
           <Grid item xs={12} sm={6} md={4}>
             <ExperienceCard
-              name="Frutería Marrakech - Málaga"
+              name="Visita la Alcazaba"
               location="Málaga"
               date="Recogida hoy 20:00 - 21:00"
               rating={4.4}
